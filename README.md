@@ -50,7 +50,7 @@ apt install git wget python -y
 
 ```bash
 
-git clone https://github.com/brajmohan8800/cyber_sathi_ek_hindustani.git
+git clone https://github.com/cybersathihelpekhindustani/Cyber-Sathi-help-ek-Hindustani.git
 
 ```
 ### 🌐 Step 3: Install Ngrok on Termux
@@ -114,4 +114,5 @@ Always keep Hotspot/Wi-Fi ON while using the tool.
 🛑 Disclaimer
 This project is strictly for educational purposes only.
 The developer is not responsible for misuse.
+
 
